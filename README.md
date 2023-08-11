@@ -13,6 +13,7 @@ Once you have Homebrew installed, run the following commands to install `browse-
 ```bash
 brew tap your_username/browse-git https://github.com/your_username/homebrew-browse-git.git
 brew install browse-git
+```
 
 ## Usage
 
