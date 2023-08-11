@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Downloading browse-git..."
-curl -o /usr/local/bin/browse-git https://raw.githubusercontent.com/blankdean/browse-git/main/browse-git
+echo "Downloading gitweb..."
+curl -o /usr/local/bin/gitweb https://raw.githubusercontent.com/blankdean/gitweb/main/gitweb
 
-echo "Making browse-git executable..."
-chmod +x /usr/local/bin/browse-git
+echo "Making gitweb executable..."
+chmod +x /usr/local/bin/gitweb
 
 echo "Installation complete!"
 
